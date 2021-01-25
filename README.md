@@ -1,4 +1,4 @@
-# Qt5 suma basica
+# Qt5 suma basica multiplataforma
 
 ![ANDROID](https://raw.githubusercontent.com/RicardoValladares/Qt5_suma_basica/main/images/android.png)
 
