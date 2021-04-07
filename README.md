@@ -1,4 +1,4 @@
-# Qt5 suma basica multiplataforma
+# suma basica multiplataforma Hecho en C++ y Framework Qt
 
 ![ANDROID](https://raw.githubusercontent.com/RicardoValladares/Qt5_suma_basica/main/images/android.png)
 
