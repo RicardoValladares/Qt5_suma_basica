@@ -10,7 +10,6 @@ MainWindow::~MainWindow(){
     delete ui;
 }
 
-
 void MainWindow::on_pushButtonlimpiar_clicked(){
     ui->lineEdit1->setText("");
     ui->lineEdit2->setText("");
@@ -31,3 +30,4 @@ void MainWindow::on_pushButtonsumar_clicked(){
         ui->lineEdit3->setText(QString::number(suma));
     }
 }
+
