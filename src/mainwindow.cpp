@@ -30,4 +30,3 @@ void MainWindow::on_pushButtonsumar_clicked(){
         ui->lineEdit3->setText(QString::number(suma));
     }
 }
-
